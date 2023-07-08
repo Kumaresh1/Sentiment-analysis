@@ -1,6 +1,6 @@
-# Sentiment and Emotion Detection
+# Sentiment and Emotion Detection for Ayurvedic Medicine Recommendation
 
-This project implements a sentiment and emotion detection system using LSTM (Long Short-Term Memory), BERT (Bidirectional Encoder Representations from Transformers), React, and Flask. The system provides an intuitive user interface for inputting text and obtaining sentiment and emotion analysis results.
+This project implements a sentiment and emotion detection system using LSTM (Long Short-Term Memory), BERT (Bidirectional Encoder Representations from Transformers), React, and Flask. The system provides an intuitive user interface for inputting text and obtaining sentiment and emotion analysis results. It recommends medicine if the predicted emotion is negative.
 
 
 
@@ -20,6 +20,7 @@ The backend of the system is implemented using Flask, a lightweight web framewor
 
 - Sentiment analysis using LSTM model
 - Emotion analysis using BERT model
+- Recommend ayurvedic medicine for negative emotions
 - User-friendly and responsive frontend interface
 - Quick and accurate sentiment and emotion analysis results
 
