@@ -2,6 +2,9 @@
 
 This project implements a sentiment and emotion detection system using LSTM (Long Short-Term Memory), BERT (Bidirectional Encoder Representations from Transformers), React, and Flask. The system provides an intuitive user interface for inputting text and obtaining sentiment and emotion analysis results. It recommends medicine if the predicted emotion is negative.
 
+## IMAGES
+![image](https://github.com/Kumaresh1/Sentiment-analysis/assets/79594917/c98eb7d5-742f-44ba-a54e-e761fb86a85a)
+![image](https://github.com/Kumaresh1/Sentiment-analysis/assets/79594917/25254752-0041-47e1-a248-c2372ca95a2b)
 
 
 ## About
