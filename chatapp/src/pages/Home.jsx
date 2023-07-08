@@ -88,7 +88,7 @@ export const Home = ({ setshowChat, setInputMessage, handleSendMessages }) => {
         className="footer"
         style={{ backgroundColor: "white", padding: "15px" }}
       >
-        <a href="abisha letter.pdf" target="_blank">
+        <a href="terms.pdf" target="_blank">
           TERMS AND CONDITIONS
         </a>
       </div>
